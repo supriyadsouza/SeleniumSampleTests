@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="135192" started-at="2015-03-04T13:50:42Z" finished-at="2015-03-04T13:52:57Z">
+  <suite name="Default suite" duration-ms="131073" started-at="2015-03-04T19:19:21Z" finished-at="2015-03-04T19:21:32Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="135192" started-at="2015-03-04T13:50:42Z" finished-at="2015-03-04T13:52:57Z">
+    <test name="Default test" duration-ms="131073" started-at="2015-03-04T19:19:21Z" finished-at="2015-03-04T19:21:32Z">
       <class name="com.testSamsung.MenuTests">
-        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.testSamsung.MenuTests@1888ff2c]" name="beforeClass" is-config="true" duration-ms="32102" started-at="2015-03-04T14:50:42Z" finished-at="2015-03-04T14:51:14Z">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.testSamsung.MenuTests@6adca536]" name="beforeClass" is-config="true" duration-ms="35208" started-at="2015-03-04T20:19:21Z" finished-at="2015-03-04T20:19:56Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="testTVMenu()[pri:0, instance:com.testSamsung.MenuTests@1888ff2c]" name="testTVMenu" duration-ms="90862" started-at="2015-03-04T14:51:14Z" finished-at="2015-03-04T14:52:45Z">
+        <test-method status="PASS" signature="testTVMenu()[pri:0, instance:com.testSamsung.MenuTests@6adca536]" name="testTVMenu" duration-ms="88542" started-at="2015-03-04T20:19:56Z" finished-at="2015-03-04T20:21:24Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTVMenu -->
-        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.testSamsung.MenuTests@1888ff2c]" name="afterClass" is-config="true" duration-ms="12183" started-at="2015-03-04T14:52:45Z" finished-at="2015-03-04T14:52:57Z">
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.testSamsung.MenuTests@6adca536]" name="afterClass" is-config="true" duration-ms="7255" started-at="2015-03-04T20:21:24Z" finished-at="2015-03-04T20:21:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
