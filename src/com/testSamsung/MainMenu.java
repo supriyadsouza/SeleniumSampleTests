@@ -4,13 +4,16 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
+import org.testng.log4testng.Logger;
 
 public class MainMenu {
 	public static WebElement element = null;
+	public static Logger log = Logger.getLogger(MainMenu.class);
 	
 	public static WebElement mnuElement (WebDriver driver, String mnuTxt)
 	{
 		String xpath=null;
+		log.info("blah");
 		switch (mnuTxt)
 		{
 		case "Shop Products": xpath= ".//nav[@role='navigation']//li[@data-category='Shop']/a"; break;
