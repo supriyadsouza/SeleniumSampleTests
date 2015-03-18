@@ -5,7 +5,6 @@
     <classes>
       <class name="com.testSamsung.MenuTests">
         <methods>
-          <include name="afterClass"/>
           <include name="testTVMenu"/>
           <include name="beforeClass"/>
         </methods>
